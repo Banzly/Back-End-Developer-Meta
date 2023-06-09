@@ -1,25 +1,17 @@
-# Additional Resources: Get started with Web Development
+# Introduction to Back-End Development
 
-## How the web works
+![image](https://github.com/Banzly/Back-End-Developer-Meta/assets/113104087/2dd6814d-3974-47de-941e-92efd85c76bc)
 
-[What is a Web Server?](https://www.nginx.com/resources/glossary/web-server/)
 
-[What is a Web Browser?](https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/)
 
-[Who invented the Internet? And why?](https://youtu.be/21eFwbb48sE)
+- This directory contains all of my assignments from the Coursera Course: [Introduction to Back-End Development](https://www.coursera.org/learn/introduction-to-back-end-development?specialization=meta-back-end-developer)
 
-[What is Cloud Computing?](https://youtu.be/mxT233EdY5c)
+## Table of Content
 
-[Browser Engines](https://en.wikipedia.org/wiki/Browser_engine)
+- Week 1: [Get started with web development](https://github.com/ginny100/Meta-Back-End-Developer/tree/master/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%201%20-%20Get%20started%20with%20web%20development)
+- Week 2: [Introduction to HTML and CSS](https://github.com/ginny100/Meta-Back-End-Developer/tree/master/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%202%20-%20Introduction%20to%20HTML%20and%20CSS)
+- Week 3: [UI Frameworks](https://github.com/ginny100/Meta-Back-End-Developer/tree/master/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%203%20-%20UI%20Frameworks)
+- Week 4: [End-of-Course Graded Assessment](https://github.com/ginny100/Meta-Back-End-Developer/tree/master/Course%201%20-%20Introduction%20to%20Back-End%20Development/Week%204%20-%20End-of-Course%20Graded%20Assessment)
 
-## Core internet technologies
+## Proof of Completion
 
-[HTTP Overview](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
-
-[Introduction to Networking](https://www.amazon.com/Introduction-Networking-How-Internet-Works/dp/1511654945/)
-
-[Chrome Developer Tools Overview](https://developer.chrome.com/docs/devtools/overview/)
-
-[Firefox Developer Tools User Docs](https://firefox-source-docs.mozilla.org/devtools-user/index.html)
-
-[Getting Started with Visual Studio Code](https://code.visualstudio.com/docs)
