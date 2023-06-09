@@ -1,6 +1,7 @@
 # Introduction to Back-End Development
 
-![Uploading image.png…]()
+![image](https://github.com/Banzly/Back-End-Developer-Meta/assets/113104087/2dd6814d-3974-47de-941e-92efd85c76bc)
+
 
 
 - This directory contains all of my assignments from the Coursera Course: [Introduction to Back-End Development](https://www.coursera.org/learn/introduction-to-back-end-development?specialization=meta-back-end-developer)
