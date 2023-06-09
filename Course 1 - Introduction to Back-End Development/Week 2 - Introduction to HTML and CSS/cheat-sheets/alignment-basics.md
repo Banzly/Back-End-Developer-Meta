@@ -123,4 +123,4 @@ _CSS_
 
 The following displays in the web browser:  
 
-<img src="./images2/img2.png" width=600>
+![image](https://github.com/Banzly/Back-End-Developer-Meta/assets/113104087/cc027a5a-104d-4ef5-a76c-ee9b2c126755)
