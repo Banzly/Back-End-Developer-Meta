@@ -1,6 +1,7 @@
 # Introduction to Back-End Development
 
-https://github.com/ginny100/Meta-Back-End-Developer/blob/master/meta-logo.png
+![Uploading image.png…]()
+
 
 - This directory contains all of my assignments from the Coursera Course: [Introduction to Back-End Development](https://www.coursera.org/learn/introduction-to-back-end-development?specialization=meta-back-end-developer)
 
