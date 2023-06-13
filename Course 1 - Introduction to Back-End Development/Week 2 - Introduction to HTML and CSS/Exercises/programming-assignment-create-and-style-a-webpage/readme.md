@@ -106,4 +106,63 @@ You can also see your score in your Programming Assignment "My Submission" tab.
 
 ## Final Result
 
-![image](https://github.com/Banzly/Back-End-Developer-Meta/assets/113104087/0a41b443-cd77-4ddb-88bb-d308051a427f)
+```
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>BanZ</title>
+        <link rel="stylesheet" href="styles.css" />
+    </head>
+    <body>
+        <div>
+            <h1>BanZ</h1>
+        </div>
+        <div>
+            <img src="photo.jpg" id="photo">
+        </div>
+        <div>
+            <h2>Favorite Music Artists</h2>
+            <ul>
+                <li>Gustavo lima</li>
+                <li>Wesley safadão</li>
+                <li>gatinha manhosa</li>
+                <li>Byonce</li>
+                <li>Romeo Santos</li>
+            </ul>
+        </div>
+        <div>
+            <h2>Favorite Films</h2>
+            <ol>
+                <li>Auto da Compadre Cida</li>
+                <li>Chuck</li>
+                <li>A Bela e a Fera</li>
+                <li>Lisbela</li> 
+                <li>Esposa de Aluguel</li>
+            </ol>
+        </div>
+        <div>
+            <a href="https://www.meta.com/">My profile</a>
+        </div>
+    </body>
+</html>
+```
+
+### CSS
+
+```
+#photo {
+    border: 2px solid blue;
+}
+
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: grey;
+}
+
+div {
+    margin: 4px;
+}
+```
