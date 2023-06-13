@@ -61,3 +61,42 @@ You can also see your score in your Programming Assignment "My Submission" tab.
 ## Final Result
 
 ![image](https://github.com/Banzly/Back-End-Developer-Meta/assets/113104087/67d08bab-3c57-4706-be20-c505b7ea2650)
+
+
+### Code 
+
+```
+body {
+    background-color: #E0E0E2;
+}
+
+h1 {
+    color: #721817;
+}
+
+h2 {
+    color: #721817;
+}
+
+.center-text {
+    text-align: center;
+}
+
+#logo {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+h2 > span {
+    color: #FA9F42;
+    font-size: 0.75em;
+}
+
+#copyright {
+    padding-top: 12px;
+}
+div #copyright {
+    font-size: 0.75em;
+}
+```
